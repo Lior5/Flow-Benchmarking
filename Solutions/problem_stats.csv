@@ -1,0 +1,11 @@
+Problem, Max nodes, Max edges, Density, Acyclic?, Unit?
+airports, 1004, 127696, 127.18, 0, 1 
+alphabet, 522, 1010, 1.93, 1, 1 
+containment, 1005, 7864, 7.82, 0, 0 
+steeplechase, 252, 15868, 62.96, 1, 1 
+traffic, 51, 326, 6.39, 1, 0 
+guards, 100, 4996, 49.96, 1, 0 
+hezardastan, 554, 57788, 104.31, 1, 0 
+openpit, 204, 1430, 7.00, 1, 0 
+piece, 1, 1, 1.00, 1, 0 
+science, 162, 10349, 63.88, 0, 1 
